@@ -1,0 +1,16 @@
+version: 1.0
+released: 2020-11-22
+
+# Connection parameters
+connection:
+  url: jdbc:postgresql://localhost:5432/postgres
+  poolSize: 5
+
+# Protocols
+protocols:
+  - http
+  - https
+
+# Users
+users:
+  postgres: 123
