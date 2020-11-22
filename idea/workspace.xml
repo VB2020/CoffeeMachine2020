@@ -1,0 +1,294 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="dc95a610-5006-4efe-8d70-e753a92f4fde" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="postgres@localhost" type="feb32156:DbDataSourceImpl" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="postgres@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="databases" type="d4e8921:DatabaseStructure$FamilyGroup" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="postgres@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="databases" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="postgres: database" type="162271b6:PgImplModel$Database" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="postgres@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="databases" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="postgres: database" type="162271b6:PgImplModel$Database" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="postgres@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="databases" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="postgres: database" type="162271b6:PgImplModel$Database" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="public: schema" type="983ebcf7:PgImplModel$Schema" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="postgres@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="databases" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="postgres: database" type="162271b6:PgImplModel$Database" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="public: schema" type="983ebcf7:PgImplModel$Schema" />
+        <item name="tables" type="d4e8921:DatabaseStructure$FamilyGroup" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="postgres@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="databases" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="postgres: database" type="162271b6:PgImplModel$Database" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="public: schema" type="983ebcf7:PgImplModel$Schema" />
+        <item name="tables" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="data: table" type="69fad909:PgImplModel$LocalTable" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="HTML File" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1katSzwUxLo9ozVf3GkEWKdxid9" />
+  <component name="ProjectViewState">
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showVisibilityIcons" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="postgresql" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Desktop" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\sw\CoffeMachine\resources" />
+      <recent name="C:\sw\CoffeMachine\src\main\java\org\coffeorganisation\config" />
+    </key>
+  </component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="mvn clean install" />
+      <command value="mvn clean deploy" />
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.Unnamed">
+    <configuration name="Unnamed" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.coffeorganisation.App" />
+      <module name="CoffeMachine" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Unnamed" type="FirefoxRemoteDebugType" nameIsGenerated="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="All in CoffeMachine" type="JUnit" factoryName="JUnit" nameIsGenerated="true">
+      <module name="CoffeMachine" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Unnamed" />
+      <item itemvalue="Firefox Remote.Unnamed" />
+      <item itemvalue="JUnit.All in CoffeMachine" />
+    </list>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="root:postgres@localhost" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+              </path>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="root:postgres@localhost" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+                <item name="com.intellij.database.console.session.MessageBusSession@84de71" type="9fbbdea:ServiceModel$ServiceNode" />
+              </path>
+            </expand>
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="dc95a610-5006-4efe-8d70-e753a92f4fde" name="Default Changelist" comment="" />
+      <created>1605950540018</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1605950540018</updated>
+      <workItem from="1605950552377" duration="1349000" />
+      <workItem from="1605952115769" duration="1750000" />
+      <workItem from="1605953932782" duration="1777000" />
+      <workItem from="1605955815673" duration="738000" />
+      <workItem from="1605956660903" duration="1757000" />
+      <workItem from="1605958475166" duration="1522000" />
+      <workItem from="1605961318133" duration="1776000" />
+      <workItem from="1605963140978" duration="1777000" />
+      <workItem from="1605964959988" duration="1779000" />
+      <workItem from="1605966781967" duration="1864000" />
+      <workItem from="1605968977853" duration="1578000" />
+      <workItem from="1605971992439" duration="1702000" />
+      <workItem from="1605974420044" duration="901000" />
+      <workItem from="1605984538104" duration="1444000" />
+      <workItem from="1605986195796" duration="1488000" />
+      <workItem from="1606018071983" duration="1712000" />
+      <workItem from="1606019923155" duration="723000" />
+      <workItem from="1606020718582" duration="442000" />
+      <workItem from="1606021268614" duration="1761000" />
+      <workItem from="1606030121421" duration="1763000" />
+      <workItem from="1606031957955" duration="1767000" />
+      <workItem from="1606033837044" duration="1769000" />
+      <workItem from="1606035658319" duration="1770000" />
+      <workItem from="1606037499169" duration="363000" />
+      <workItem from="1606039431357" duration="1626000" />
+      <workItem from="1606041268429" duration="608000" />
+      <workItem from="1606057330376" duration="1525000" />
+      <workItem from="1606059399880" duration="188000" />
+      <workItem from="1606059749512" duration="1760000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="90" y="27" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1606058225465">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="90" y="27" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728@0.0.1366.728" timestamp="1606058225465" />
+    <state x="488" y="72" key="#com.intellij.ide.util.MemberChooser" timestamp="1605964402489">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="488" y="72" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728@0.0.1366.728" timestamp="1605964402489" />
+    <state x="412" y="143" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1605958159889">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="412" y="143" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1366.728@0.0.1366.728" timestamp="1605958159889" />
+    <state x="463" y="89" key="FileChooserDialogImpl" timestamp="1606061054879">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="463" y="89" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1606061054879" />
+    <state width="1322" height="244" key="GridCell.Tab.0.bottom" timestamp="1606061288633">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1322" height="244" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1606061288633" />
+    <state width="1322" height="244" key="GridCell.Tab.0.center" timestamp="1606061288632">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1322" height="244" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1606061288632" />
+    <state width="1322" height="244" key="GridCell.Tab.0.left" timestamp="1606061288632">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1322" height="244" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1606061288632" />
+    <state width="1322" height="244" key="GridCell.Tab.0.right" timestamp="1606061288632">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1322" height="244" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1606061288632" />
+    <state width="1322" height="216" key="GridCell.Tab.1.bottom" timestamp="1605958170118">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1322" height="216" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1605958170118" />
+    <state width="1322" height="216" key="GridCell.Tab.1.center" timestamp="1605958170118">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1322" height="216" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1605958170118" />
+    <state width="1322" height="216" key="GridCell.Tab.1.left" timestamp="1605958170118">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1322" height="216" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1605958170118" />
+    <state width="1322" height="216" key="GridCell.Tab.1.right" timestamp="1605958170118">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1322" height="216" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1605958170118" />
+    <state width="1322" height="216" key="GridCell.Tab.2.bottom" timestamp="1605958170119">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1322" height="216" key="GridCell.Tab.2.bottom/0.0.1366.728@0.0.1366.728" timestamp="1605958170119" />
+    <state width="1322" height="216" key="GridCell.Tab.2.center" timestamp="1605958170119">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1322" height="216" key="GridCell.Tab.2.center/0.0.1366.728@0.0.1366.728" timestamp="1605958170119" />
+    <state width="1322" height="216" key="GridCell.Tab.2.left" timestamp="1605958170119">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1322" height="216" key="GridCell.Tab.2.left/0.0.1366.728@0.0.1366.728" timestamp="1605958170119" />
+    <state width="1322" height="216" key="GridCell.Tab.2.right" timestamp="1605958170119">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1322" height="216" key="GridCell.Tab.2.right/0.0.1366.728@0.0.1366.728" timestamp="1605958170119" />
+    <state width="196" height="457" key="HiddenNamespacesPopup" timestamp="1605985653435">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="196" height="457" key="HiddenNamespacesPopup/0.0.1366.728@0.0.1366.728" timestamp="1605985653435" />
+    <state x="213" y="18" key="Maven.ArtifactSearchDialog" timestamp="1606058158644">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="213" y="18" key="Maven.ArtifactSearchDialog/0.0.1366.728@0.0.1366.728" timestamp="1606058158644" />
+    <state x="479" y="168" width="407" height="387" key="com.intellij.database.psi.DbRenamePsiElementProcessor.DbRenameDialog" timestamp="1606036927029">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="479" y="168" width="407" height="387" key="com.intellij.database.psi.DbRenamePsiElementProcessor.DbRenameDialog/0.0.1366.728@0.0.1366.728" timestamp="1606036927029" />
+    <state x="399" y="4" key="com.intellij.database.view.ui.AbstractDbRefactoringDialog" timestamp="1606037023778">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="399" y="4" key="com.intellij.database.view.ui.AbstractDbRefactoringDialog/0.0.1366.728@0.0.1366.728" timestamp="1606037023778" />
+    <state x="339" y="157" width="672" height="677" key="run.anything.popup" timestamp="1606061219915">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="339" y="157" width="672" height="677" key="run.anything.popup/0.0.1366.728@0.0.1366.728" timestamp="1606061219915" />
+  </component>
+</project>
