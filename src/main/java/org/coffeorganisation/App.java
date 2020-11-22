@@ -5,7 +5,6 @@ import org.coffeorganisation.config.AppConfiguration;
 import org.springframework.context.ApplicationContext;
 import org.springframework.context.annotation.AnnotationConfigApplicationContext;
 import org.yaml.snakeyaml.Yaml;
-//import javax.security.auth.login.Configuration;
 import java.io.IOException;
 import java.io.InputStream;
 import java.nio.file.Files;
@@ -23,16 +22,6 @@ public class App
         ApplicationContext context = new AnnotationConfigApplicationContext(AppConfiguration.class);
         CoffeeService service = (CoffeeService) context.getBean("coffeeService");
         String info_to_DB = service.show();
-
-
-        //swagger==============================================
-
-
-        
-        //swagger==============================================
-
-
-
         //---------------ОПЕРАЦИИ С БД-----------------------------------
         //подключение к БД;
         String user = "postgres";
@@ -48,23 +37,7 @@ public class App
         ps.executeUpdate();
         System.out.println("КОНЕЦ ЗАПИСИ!");
         //-----------------------------------------------------------
-        /*
-        System.out.println("ПОКАЗ БД:");
-
-        Statement stmt = conn.createStatement();
-        // чтение или выборка из БД
-        ResultSet rs = stmt.executeQuery("select id, coffee_info " + "from data");
-        while (rs.next())
-        {
-            System.out.println(rs);
-        }
-
-         */
-
-        //System.out.println("----------");
-
-        //MyComponent myComponent = (MyComponent) context.getBean("myComponent");
-        //String date_to_db = myComponent.showAppInfo_and_date();
+        
 
     }
 }
